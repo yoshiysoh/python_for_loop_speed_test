@@ -1,7 +1,7 @@
 #!/bin/sh
 # remove the file if it exists
-rm -f for_loop_result.tsv
-touch for_loop_result.tsv
+rm -f for_loop_result.txt
+touch for_loop_result.txt
 
 source ~/miniconda3/etc/profile.d/conda.sh
 
