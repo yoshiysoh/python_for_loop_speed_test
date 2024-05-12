@@ -2,7 +2,7 @@
 
 ## Question
 
-How does the speed of loop by for depend on Python version?
+How does the speed of loop by `for` depend on Python version?
 
 ## Tested code
 
