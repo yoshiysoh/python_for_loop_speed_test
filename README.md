@@ -9,7 +9,7 @@ How does the speed of loop by `for` depend on Python version?
 ```python
 def test():
     r = 0
-    for i in range(int(1e8)):
+    for i in range(int(1e5)):
         r += i
 ```
 
